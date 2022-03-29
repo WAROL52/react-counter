@@ -1,0 +1,14 @@
+.counter{ 
+    padding: 13px;
+    border-radius: 8px;
+    width: 400px;
+    border: rgb(121, 112, 112) solid 2px;
+}
+.counter >span{
+    display: inline-block;
+    width: 190px;
+    border: solid 1px rgb(121, 112, 112);
+}
+.counter input{
+    width: 16%;
+}
